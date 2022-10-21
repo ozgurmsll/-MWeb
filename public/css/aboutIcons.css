@@ -1,0 +1,74 @@
+.js{
+    -webkit-transition-duration: 2s;
+
+}
+
+.js:hover {
+    transform: rotate(50deg);
+  }
+  .asp {
+    -webkit-transition-duration: 2s;
+  }
+  .asp:hover {
+    transform: rotate(-50deg);
+  }
+  
+  .Excel {
+    -webkit-transition-duration: 2s;
+  }
+  .Excel:hover {
+    transform: rotate(50deg);
+  }
+  .Python {
+    -webkit-transition-duration: 2s;
+  }
+  .Python:hover {
+    transform: rotate(-50deg);
+  }
+  .Angular {
+    -webkit-transition-duration: 2s;
+  }
+  .Angular:hover {
+    transform: rotate(50deg);
+  }
+  .Bootstrap {
+    -webkit-transition-duration: 2s;
+  }
+  .Bootstrap:hover {
+    transform: rotate(-100deg);
+  }
+  .Css {
+    -webkit-transition-duration: 2s;
+  }
+  .Css:hover {
+    transform: rotate(50deg);
+  }
+  .Html {
+    -webkit-transition-duration: 2s;
+  }
+  .Html:hover {
+    transform: rotate(50deg);
+  }
+  .fa-database{
+    -webkit-transition-duration: 2s;
+
+  }
+ .fa-database:hover{
+    transform: rotate(50deg);
+
+  }
+  iconify-icon{
+    -webkit-transition-duration: 2s;
+
+  }
+  iconify-icon:hover{
+    transform: rotate(-100deg);
+
+  }
+  .fa-copyright{
+    -webkit-transition-duration: 2s;
+
+  }.fa-copyright:hover{
+    transform: rotate(50deg);
+
+  }

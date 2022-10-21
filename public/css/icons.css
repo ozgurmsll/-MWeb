@@ -1,0 +1,53 @@
+.social-icons a{
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 5px;
+   padding-left: 20px;
+    color: #fff;
+}
+
+.bir-icons{
+    animation-delay: 0.5s;
+}
+.bir-icons:hover{
+    transition-duration: 3s;
+}
+.iki-icons{
+    animation-delay: 1s;
+}
+.üç-icon{
+    animation-delay: 1.5s;
+
+}
+.dört-icon{
+    animation-delay: 2s;
+}
+
+.bir-icons:hover{
+    padding-left: 10px;
+}
+
+
+.iki-icons:hover{
+    padding-left: 10px;
+}
+
+.iki-icons:hover{
+    transition-duration: 3s;
+}
+.üç-icon:hover{
+    padding-left: 10px;
+}
+
+.üç-icon:hover{
+    transition-duration: 3s;
+}
+.dört-icon:hover{
+    padding-left: 10px;
+}
+
+.dört-icon:hover{
+    transition-duration: 3s;
+}
+    
+   
