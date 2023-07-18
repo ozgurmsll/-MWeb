@@ -28,7 +28,7 @@
 .text a{
     display: inline-flex;
     text-decoration: none;
-    color: rgb(11, 81, 142);
+    color: rgb(208, 211, 212);
     border: 1px solid;
     margin-left:55%;
     height:45px;
@@ -40,7 +40,7 @@
     align-items: center;
     border-color: black;
     border-radius: 10px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(38, 53, 45);
     
 }
 .text a:hover{
